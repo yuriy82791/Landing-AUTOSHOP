@@ -923,7 +923,7 @@ strong, b, h1, h2, h3, h4, h5, h6{
    }
    .economy-gallery p{
      font-size: 13px;
-     list-style: 20px;
+     line-height: 20px;
    }
    .form-input input{
      width: 280px;
